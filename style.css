@@ -74,6 +74,7 @@ body {
   background-position: center;
   max-width: 100%;
   display: block;
+  padding-bottom: 200px;
 }
 .poezii p {
   color: #8dc6ff;
@@ -93,6 +94,155 @@ body {
   transform: translate(750px, 110px);
   background: #ffffff;
   border: 1px solid #ffffff15;
+}
+@media screen and (max-width: 1828px) {
+  .poezii {
+    margin-right: 1410px;
+  }
+}
+@media screen and (max-width: 1737px) {
+  .poezii {
+    margin-right: 1310px;
+    transform: translate(680px, 110px);
+  }
+}
+@media screen and (max-width: 1650px) {
+  .poezii {
+    margin-right: 1210px;
+    transform: translate(630px, 110px);
+  }
+}
+@media screen and (max-width: 1564px) {
+  .poezii {
+    margin-right: 1110px;
+    transform: translate(580px, 110px);
+  }
+}
+@media screen and (max-width: 1355px) {
+  .poezii {
+    margin-right: 1010px;
+    transform: translate(530px, 110px);
+  }
+}
+@media screen and (max-width: 1469px) {
+  .poezii {
+    margin-right: 1000px;
+    transform: translate(530px, 110px);
+  }
+}
+@media screen and (max-width: 1358px) {
+  .poezii {
+    margin-right: 950px;
+    transform: translate(500px, 110px);
+  }
+}
+@media screen and (max-width: 1320px) {
+  .poezii {
+    margin-right: 900px;
+    transform: translate(480px, 110px);
+  }
+}
+@media screen and (max-width: 1286px) {
+  .poezii {
+    margin-right: 850px;
+    transform: translate(430px, 110px);
+  }
+}
+@media screen and (max-width: 1186px) {
+  .poezii {
+    margin-right: 780px;
+    transform: translate(400px, 110px);
+  }
+}
+@media screen and (max-width: 1143px) {
+  .poezii {
+    margin-right: 730px;
+    transform: translate(380px, 110px);
+  }
+}
+@media screen and (max-width: 1092px) {
+  .poezii {
+    margin-right: 670px;
+    transform: translate(370px, 110px);
+  }
+}
+@media screen and (max-width: 1035px) {
+  .poezii {
+    margin-right: 620px;
+    transform: translate(340px, 110px);
+  }
+}
+@media screen and (max-width: 998px) {
+  .poezii {
+    margin-right: 570px;
+    transform: translate(320px, 110px);
+  }
+}
+@media screen and (max-width: 918px) {
+  .poezii {
+    margin-right: 480px;
+    transform: translate(260px, 110px);
+  }
+}
+@media screen and (max-width: 835px) {
+  .poezii {
+    margin-right: 420px;
+    transform: translate(240px, 110px);
+  }
+}
+@media screen and (max-width: 769px) {
+  .poezii {
+    margin-right: 340px;
+    transform: translate(200px, 110px);
+  }
+}
+@media screen and (max-width: 689px) {
+  .poezii {
+    margin-right: 260px;
+    transform: translate(150px, 110px);
+  }
+}
+@media screen and (max-width: 598px) {
+  .poezii {
+    margin-right: 210px;
+    transform: translate(120px, 110px);
+  }
+}
+@media screen and (max-width: 553px) {
+  .poezii {
+    margin-right: 170px;
+    transform: translate(100px, 110px);
+  }
+}
+@media screen and (max-width: 521px) {
+  .poezii {
+    margin-right: 130px;
+    transform: translate(70px, 110px);
+  }
+}
+@media screen and (max-width: 478px) {
+  .poezii {
+    margin-right: 80px;
+    transform: translate(40px, 110px);
+  }
+}
+@media screen and (max-width: 440px) {
+  .poezii {
+    margin-right: 50px;
+    transform: translate(30px, 110px);
+  }
+}
+@media screen and (max-width: 440px) {
+  .poezii {
+    margin-right: 50px;
+    transform: translate(30px, 110px);
+  }
+}
+@media screen and (max-width: 406px) {
+  .poezii {
+    margin-right: 30px;
+    transform: translate(20px, 110px);
+  }
 }
 .poezii a {
   text-decoration: none;
