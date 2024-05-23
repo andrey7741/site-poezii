@@ -250,7 +250,7 @@ body {
   display: absolute;
   cursor: pointer;
 }
-.poezii button {
+.poezii a {
   padding: 13px;
   border-radius: 50px;
   /* border: 1px solid #8472ad; */
